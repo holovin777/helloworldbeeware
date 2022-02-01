@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.5
+Name: helloworld
+Formal-Name: Hello World
+App-ID: com.holovin.helloworld.helloworld
+Version: 0.0.1
+Home-page: https://helloworld.holovin.com
+Author: Viktor Holovin
+Author-email: holovin@mail.com
+Summary: Hello World App
